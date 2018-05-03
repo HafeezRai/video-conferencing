@@ -1,4 +1,4 @@
-# Hubl.in
+# Vinteo
 
 [![Join the chat at https://gitter.im/linagora/hublin](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/linagora/hublin?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
@@ -8,7 +8,7 @@
 [![Build Status](https://travis-ci.org/linagora/hublin.svg?branch=master)](https://travis-ci.org/linagora/hublin)
 [![Docker Build Status](https://img.shields.io/docker/build/linagora/hublin.svg)](https://hub.docker.com/r/linagora/hublin)
 
-[Hubl.in](https://hubl.in) is a free and open source video conference solution built with love and designed with ethics in mind.
+[vinteo.cf](http://vinteo.cf) is a free and open source video conference solution built with love and designed with ethics in mind.
 It's the best way to initiate a communication anywhere with anybody and brings real time conversation to the next level.
 Hubl.in allows free communication without additional plugins.
 
@@ -224,7 +224,7 @@ And then start Hublin
 ```sh
 NODE_ENV=dev npm start
 ```
-
+##For custom Developemnt you can contact on rai.hafeez006@gmail.com
 ## Embedding
 
 Want to embed hubl.in on your website? Read more [here](doc/embedding.md).
